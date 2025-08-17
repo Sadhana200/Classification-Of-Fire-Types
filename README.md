@@ -2,7 +2,9 @@
 Classification of Fire Types in India Using MODIS Satellite Data
 This project focuses on using Machine Learning techniques to classify different fire types in India using data obtained from the MODIS satellite. Forest fires, agricultural fires, and other fire events pose a major threat to ecosystems, air quality, and human life. With the right classification model, we can detect and monitor these fires efficiently using satellite data.
 
+
 📌 Project Objectives
+
 📊 Analyze and preprocess MODIS satellite fire data.
 🧹 Handle missing values, feature engineering, and data encoding.
 ⚙️ Build machine learning models (e.g., Random Forest, Decision Tree, SVM) to classify fire types.
@@ -12,6 +14,7 @@ This project focuses on using Machine Learning techniques to classify different 
 
 
 Source: MODIS Active Fire Detections (NASA FIRMS)
+
 Format: CSV
 Features:
 Latitude, Longitude
